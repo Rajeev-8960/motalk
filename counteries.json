@@ -1,0 +1,17 @@
+{
+  "India": [
+    { "name": "India - Landline", "rate": "$0.02 / min" },
+    { "name": "India - Mobile - Airtel", "rate": "$0.03 / min" },
+    { "name": "India - Mobile - Jio", "rate": "$0.025 / min" }
+  ],
+  "Pakistan": [
+    { "name": "Pakistan - Landline", "rate": "$0.05 / min" },
+    { "name": "Pakistan - Mobile - Jazz", "rate": "$0.06 / min" },
+    { "name": "Pakistan - Mobile - Zong", "rate": "$0.055 / min" }
+  ],
+  "Nigeria": [
+    { "name": "Nigeria - Landline", "rate": "$0.08 / min" },
+    { "name": "Nigeria - Mobile - MTN", "rate": "$0.09 / min" },
+    { "name": "Nigeria - Mobile - Airtel", "rate": "$0.088 / min" }
+  ]
+}
